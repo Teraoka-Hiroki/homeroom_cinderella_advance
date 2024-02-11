@@ -3,4 +3,3 @@ amplify
 matplotlib
 numpy
 matplotlib
-os
