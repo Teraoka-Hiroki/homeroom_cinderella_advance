@@ -1,0 +1,6 @@
+streamlit
+amplify
+matplotlib
+numpy
+matplotlib
+os
