@@ -103,7 +103,7 @@ def download_csv(data, filename='data.csv'):
     ''', unsafe_allow_html=True)
 
 # Streamlitアプリの実行ファイル（app.py）と同じディレクトリにあるZIPファイルを指定
-zip_file_name = "アップロード用ファイル（ひな形）.zip"
+zip_file_name = "template.zip"
 zip_file_path = os.path.join(os.path.dirname(__file__), zip_file_name)
 
 st.write("生徒の属性等のひな形をダウンロードしてください")
